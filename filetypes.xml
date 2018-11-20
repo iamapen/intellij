@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="57147490bf13b" type="PLAIN_TEXT" />
+      <mapping pattern="hoge" type="PLAIN_TEXT" />
+      <mapping pattern="tmp" type="PLAIN_TEXT" />
+      <mapping ext="template" type="PLAIN_TEXT" />
+      <mapping ext="12-0" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

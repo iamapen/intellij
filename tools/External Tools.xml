@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="behat" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="$PhpExecutable$" />
+      <option name="PARAMETERS" value="$ProjectFileDir$\src\vendor\behat\behat\bin\behat --config=behat.yml --format=progress --colors tests/features/$FileDirName$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$/src/behaviorTest" />
+    </exec>
+  </tool>
+  <tool name="sakura" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\apps\sakura\sakura.exe" />
+      <option name="PARAMETERS" value="$FileDir$/$FileName$" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+</toolSet>
