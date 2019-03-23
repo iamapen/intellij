@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\src\app\Http\Controllers\PayloadController.php [laravel5study2]'" />
-    <option name="defaultScopeName" value="File '...\src\app\Http\Controllers\PayloadController.php [laravel5study2]'" />
+    <option name="customScope" value="File '...\tests\Shop\Domain\Models\Item\ItemCountTest.php [dddStudy01]'" />
+    <option name="defaultScopeName" value="File '...\tests\Shop\Domain\Models\Item\ItemCountTest.php [dddStudy01]'" />
     <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\src\app\Http\Controllers\PayloadController.php [laravel5study2]'" />
+    <option name="SEARCH_SCOPE" value="File '...\tests\Shop\Domain\Models\Item\ItemCountTest.php [dddStudy01]'" />
   </component>
 </application>
