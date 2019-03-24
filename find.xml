@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '...\unittest\tests\Shop\Domain\Models\Item\ItemTest.php [dddStudy01]'" />
-    <option name="defaultScopeName" value="File '...\unittest\tests\Shop\Domain\Models\Item\ItemTest.php [dddStudy01]'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '...\unittest\tests\Shop\Domain\Models\Item\ItemTest.php [dddStudy01]'" />
+    <option name="SEARCH_SCOPE" value="All Places" />
   </component>
 </application>
