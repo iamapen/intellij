@@ -1,9 +1,0 @@
-<application>
-  <component name="IntentionManagerSettings">
-    <ignoreAction name="PHP/Convert HEREDOC/NOWDOC to string literal" />
-    <ignoreAction name="PHP/Convert array to short syntax" />
-    <ignoreAction name="PHP/Convert array to traditional syntax" />
-    <ignoreAction name="PHP/Convert namespace to braced" />
-    <ignoreAction name="PHP/Convert string literal to HEREDOC/NOWDOC" />
-  </component>
-</application>
