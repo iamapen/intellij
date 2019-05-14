@@ -1,0 +1,26 @@
+<scheme name="_@user_Default" version="142" parent_scheme="Default">
+  <metaInfo>
+    <property name="created">2019-05-06T16:20:29</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2019.1.1.0.0</property>
+    <property name="modified">2019-05-14T21:37:30</property>
+    <property name="originalScheme">Default</property>
+  </metaInfo>
+  <attributes>
+    <option name="LINE_FULL_COVERAGE">
+      <value>
+        <option name="BACKGROUND" value="ccffcc" />
+      </value>
+    </option>
+    <option name="LINE_NONE_COVERAGE">
+      <value>
+        <option name="BACKGROUND" value="ffcccc" />
+      </value>
+    </option>
+    <option name="LINE_PARTIAL_COVERAGE">
+      <value>
+        <option name="BACKGROUND" value="ffffcc" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
